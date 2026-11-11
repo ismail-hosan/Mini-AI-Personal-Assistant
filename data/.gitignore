@@ -1,0 +1,7 @@
+# data directory — database and CSV files
+
+# Keep the directory tracked but ignore generated files
+*.db
+*.db-shm
+*.db-wal
+sample_people.csv
